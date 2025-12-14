@@ -12,8 +12,11 @@ Análise estratégica de desempenho de uma rede de lojas fictícia, desenvolvida
 Esta análise tem como objetivo avaliar o desempenho de 4 lojas de uma rede varejista, utilizando métricas de negócio para identificar a **unidade com menor performance estratégica** e que seria a **melhor candidata para venda**. A decisão é baseada em um sistema de pontuação que combina:
 
 - **Faturamento total**
+  ![Grafico faturamento](Faturamento%20Total%20por%20Loja.png)
 - **Satisfação do cliente** (avaliação média)
+  ![Grafico Média](Média%20de%20Avaliação%20dos%20Clientes%20por%20Loja.png)
 - **Eficiência operacional** (custo do frete como percentual do faturamento)
+  ![Grafico Score](Score%20Total%20de%20Desempenho%20por%20Loja.png)
 
 ## 📁 Estrutura do Projeto
 
